@@ -23,7 +23,7 @@ namespace Oxide.Plugins
             public long combatDuration = 30000;
             
             [JsonProperty(PropertyName = "Warning message for someone that's roofcamping (On Chat)")]
-            public string antiRoofCampMessageChat = "<color=#ff0000>You can't roofcamp!</color>"; // Damage was returned to you.
+            public string antiRoofCampMessageChat = "<color=#ff0000>You can't roofcamp! Damage was returned to you.</color>";
             [JsonProperty(PropertyName = "Warning message for someone that's roofcamping (On Screen)")]
             public string antiRoofCampMessageScreen = "<color=#ff0000>You can't roofcamp!</color>";
             [JsonProperty(PropertyName = "Show message on text chat")]
