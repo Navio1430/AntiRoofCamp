@@ -30,7 +30,7 @@ namespace Oxide.Plugins
             public bool showMessageOnTextChat = true;
             [JsonProperty(PropertyName = "Show message on screen")]
             public bool showMessageOnScreen = true;
-            [JsonProperty(PropertyName = "Message fade out effect duration")]
+            [JsonProperty(PropertyName = "Message fade out effect duration (Seconds)")]
             public float messageFadeOut = 0.3f;
             [JsonProperty(PropertyName = "Message display duration")]
             public float messageDuration = 2f;
