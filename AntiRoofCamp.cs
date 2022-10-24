@@ -32,7 +32,7 @@ namespace Oxide.Plugins
             public bool showMessageOnScreen = true;
             [JsonProperty(PropertyName = "Message fade out effect duration (Seconds)")]
             public float messageFadeOut = 0.3f;
-            [JsonProperty(PropertyName = "Message display duration")]
+            [JsonProperty(PropertyName = "Message display duration (Seconds)")]
             public float messageDuration = 2f;
             
             [JsonProperty(PropertyName = "Give back damage to player")]
