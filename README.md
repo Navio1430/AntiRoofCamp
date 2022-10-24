@@ -1,6 +1,13 @@
-# Anti Roof Camp
+# I would appreciate it if you ⭐ this project 😊
+
+# Anti Roofcamp
 
 Plugin created for [Rust](https://rust.facepunch.com) [Oxide](https://umod.org/games/rust) servers.
+
+# Plugin showcase
+
+[![image](https://user-images.githubusercontent.com/73886336/197628566-6d875ce6-504c-44b5-8002-2fba23a2d8a8.png)](https://www.youtube.com/watch?v=5rHBkPZ3QJE)
+https://www.youtube.com/watch?v=5rHBkPZ3QJE
 
 ## Configuration file
 | Property name                                                | Value   | Default Value                                                            |
