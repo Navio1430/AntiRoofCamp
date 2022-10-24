@@ -309,12 +309,9 @@ namespace Oxide.Plugins
                 if (player.ToPlayer().GetMountedVehicle().ShortPrefabName == "minicopter.entity" ||
                     player.ToPlayer().GetMountedVehicle().ShortPrefabName == "scraptransporthelicopter")
                 {
-                    Puts("is in heli");
                     return true;
                 }
             }
-            
-            Puts("is not in heli");
 
             return false;
         }
