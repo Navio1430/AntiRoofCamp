@@ -198,14 +198,18 @@ namespace Oxide.Plugins
             //Checking if both attacker and victim are on foundation or ground
             if (IsOnGroundOrFoundation(attackerPlayer) && IsOnGroundOrFoundation(victimPlayer))
             {
+#if debug
                 Puts("Is on ground or foundation");
+#endif
                 return null;
             }
             
             //Checking if attacker is on monument
             if (IsPlayerAtMonument(attackerPlayer))
             {
+#if debug
                 Puts("Player is on a monument");
+#endif
                 return null;
             }
             
