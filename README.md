@@ -1,3 +1,6 @@
+# ATTENTION! This project is no longer supported
+The project was abandoned 2 years ago. Since then, I haven't updated anything. There are multiple things that were added to the rust game and are not considered in the plugin. For example, tug boats or new props. If you need any help or want to continue the project just DM me. 
+
 # I would appreciate it if you ⭐ this project 😊
 
 # Anti Roofcamp
